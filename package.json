@@ -8,7 +8,7 @@
     "type": "git"
   },
   "scripts": {
-    "start": "node index.js "
+    "start": "node index.js './input/' './output/' false "
   },
   "engines": {
     "node": "8.9.4"
