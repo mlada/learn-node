@@ -1,0 +1,23 @@
+{
+  "name": "learn-node",
+  "version": "1.0.0",
+  "description": "Simple page node.js",
+  "main": "index.js",
+  "repository": {
+    "url": "mlada/learn-node",
+    "type": "git"
+  },
+  "scripts": {
+    "start": "node index.js './input/' './output/' false ",
+    "server": "node server.js "
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "author": "Mlada Pechorina",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-standard": "^11.0.0"
+  },
+  "devDependencies": {}
+}
