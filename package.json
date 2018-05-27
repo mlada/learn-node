@@ -8,13 +8,16 @@
     "type": "git"
   },
   "scripts": {
-    "start": "node index.js './input/' './output/' false "
+    "start": "node index.js './input/' './output/' false ",
+    "server": "node server.js "
   },
   "engines": {
     "node": "8.9.4"
   },
   "author": "Mlada Pechorina",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "eslint-config-standard": "^11.0.0"
+  },
   "devDependencies": {}
 }
