@@ -62,8 +62,3 @@ typings/
 
 # next.js build output
 .next
-
-*.iml
-*.xml
-.DS_Store
-.idea
