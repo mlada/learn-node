@@ -15,9 +15,5 @@
     "node": "8.9.4"
   },
   "author": "Mlada Pechorina",
-  "license": "MIT",
-  "dependencies": {
-    "eslint-config-standard": "^11.0.0"
-  },
-  "devDependencies": {}
+  "license": "MIT"
 }
